@@ -40,3 +40,4 @@ def index_arr(arr,num,k):
 A = initial(M)
 B = index_arr(A,M,K)
 print(B)
+
